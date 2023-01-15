@@ -41,7 +41,7 @@ Basically, data mining is the latest technology. Also, it is a process of discov
 6. Pattern evaluation
 7. Knowledge representation
 
-## Q.8. Name the steps used in data mining?
+### Q.8. Name the steps used in data mining?
 
 1. Business understanding
 2. Data understanding
@@ -50,7 +50,7 @@ Basically, data mining is the latest technology. Also, it is a process of discov
 5. Evaluation
 6. Deployment
 
-## Q.9. Name areas of applications of data mining?
+### Q.9. Name areas of applications of data mining?
 
 1. Data Mining Applications for Finance
 2. Healthcare
@@ -63,34 +63,34 @@ Basically, data mining is the latest technology. Also, it is a process of discov
 9. Crime Agencies
 10. Businesses Benefit from data mining
 
-## Q.10. What is required technological drivers in data mining?
+### Q.10. What is required technological drivers in data mining?
 
 1. Database size: Basically, as for maintaining and processing the huge amount of data, we need powerful systems.
 2. Query Complexity: Generally, to analyze the complex and large number of queries, we need a more powerful system.
 
-## Q.11. Give an introduction to data mining query language?
+### Q.11. Give an introduction to data mining query language?
 
 It was proposed by Han, Fu, Wang, et al. for the DBMiner data mining system. Although, it was based on the Structured Query Language. These query languages are designed to support ad hoc and interactive data mining. Also, it provides commands for specifying primitives. We can use DMQL to work with databases and data warehouses as well. We can also use it to define data mining tasks. Particularly we examine how to define data warehouses and data marts in DMQL.
 
 
-## Q.12. What is Syntax for Task-Relevant Data Specification?
+### Q.12. What is Syntax for Task-Relevant Data Specification?
 
 The Syntax of DMQL for specifying task-relevant data − use database database_name or use data warehouse data_warehouse_name
 in relevance to att_or_dim_list from relation(s)/cube(s) [where condition] order by order_list group by grouping_list
 
-## Q.13. What is Syntax for Specifying the Kind of Knowledge?
+### Q.13. What is Syntax for Specifying the Kind of Knowledge?
 
 Syntax for Characterization, Discrimination, Association, Classification, and Prediction.
 
-## Q.14. Explain Syntax for Interestingness Measures Specification?
+### Q.14. Explain Syntax for Interestingness Measures Specification?
 
 Interestingness measures and thresholds can be specified by the user with the statement − with <interest_measure_name> threshold = threshold_value
 
-## Q.15. Explain Syntax for Pattern Presentation and Visualization Specification?
+### Q.15. Explain Syntax for Pattern Presentation and Visualization Specification?
 
 Generally, we have a syntax, which allows users to specify the display of discovered patterns in one or more forms. display as <result_form>
 
-## Q.16. Explain Data Mining Languages Standardization?
+### Q.16. Explain Data Mining Languages Standardization?
 
 This will serve the following purposes −
 
@@ -108,33 +108,29 @@ This will serve the following purposes −
 5. Get the cases that fit a particular pattern.
 6. Further, it retrieves details about individual cases used in the model.
 7. Also, it includes data not used in the analysis. Moreover, it retrains a model by adding new data or perform cross-prediction.
-## Q.18. Give a brief introduction to data mining knowledge discovery?
 
+### Q.18. Give a brief introduction to data mining knowledge discovery?
 Generally, most people don’t differentiate data mining from knowledge discovery. While others view data mining as an essential step in the process of knowledge discovery.
 
-##Q.19. Explain steps involved in data mining knowledge process?
-
-### Data Cleaning −
+### Q.19. Explain steps involved in data mining knowledge process?
+#### 1. Data Cleaning −
 Basically, in this step, the noise and inconsistent data are removed.
-
-### Data Integration −
+#### 2. Data Integration −
 Moreover, in this step, multiple data sources are combined.
-
-### Data Selection −
+#### 3.Data Selection −
 Furthermore, in this step, data relevant to the analysis task are retrieved from the database.
-### Data Transformation −
+#### 4. Data Transformation −
 Basically, in this step, data is transformed into forms appropriate for mining. Also, by performing summary or aggregation operations.
-### Data Mining −
+#### 5. Data Mining −
 In this, intelligent methods are applied in order to extract data patterns.
-Pattern Evaluation −
-### While, in this step, data patterns are evaluated.
-### Knowledge Presentation −
+#### 6. Pattern Evaluation −
+While, in this step, data patterns are evaluated.
+#### 7. Knowledge Presentation −
 Generally, in this step, knowledge is represented
 
-## Q.20. What are issues in data mining?
+### Q.20. What are issues in data mining?
 
 A number of issues that need to be addressed by any serious data mining package
-
 1. Uncertainty Handling
 2. Dealing with Missing Values
 3. Dealing with Noisy data
@@ -145,23 +141,20 @@ A number of issues that need to be addressed by any serious data mining package
 8. Data Selection
 9. Understandably of Discovered Knowledge: Consistency between Data and Discovered Knowledge.
 
-
-## Q.21. What are major elements of data mining, explain?
+### Q.21. What are major elements of data mining, explain?
 1. Generally, helps in an extract, transform and load transaction data onto the data warehouse system.
 2. While it stores and manages the data in a multidimensional database system.
 3. Also, provide data access to business analysts and information technology professionals.
 4. Generally, analyze the data by application software.
 5. While, it shows the data in a useful format, such as a graph or table
 
-## Q.22. Name different level of analysis of data mining?
-
+### Q.22. Name different level of analysis of data mining?
 1. Artificial Neural NetworksGenetic algorithms
 2. Nearest neighbor method
 3. Rule induction
 4. Data visualization
 
-Q.23. Name methods of classification methods?
-
+### Q.23. Name methods of classification methods?
 1. Statistical Procedure Based Approach
 2. Machine Learning Based Approach
 3. Neural Network
@@ -176,34 +169,17 @@ Q.23. Name methods of classification methods?
 12. Support Vector Machines
 13. SenseClusters (an adaptation of the K-means clustering algorithm)
 
-## Q.24. Explain Statistical Procedure Based Approach?
+### Q.24. Explain Statistical Procedure Based Approach?
+Especially, there are two main phases present to work on classification. Also, it can be easily identified within the statistical community. While, the second, “modern” phase concentrated on more flexible classes of models. Also, in which many of which attempt has to take. Moreover, it provides an estimate of the joint distribution of the feature within each class. Further, that can, in turn, provide a classification rule. Generally, statistical procedures have to characterize by having a precise fundamental probability model and that is used to provides a probability of being in each class instead of just a classification. Also, we can assume that the techniques will use by statisticians. Hence some human involvement has to assume with regard to variable selection. Also, transformation and overall structuring of the problem.
 
-Especially, there are two main phases present to work on classification. Also, it can be easily identified within the statistical community.
+### Q.25. Explain Machine Learning Based Approach?
+Generally, it covers automatic computing procedures. Also, it was based on logical or binary operations. Further, we use to learn a task from a series of examples. Here, we have to focus on decision-tree approaches. Also, ss classification results come from a sequence of logical steps. Also, its principle would allow us to deal with more general types of data including cases. While, the number and type of attributes may vary.
 
-While, the second, “modern” phase concentrated on more flexible classes of models. Also, in which many of which attempt has to take. Moreover, it provides an estimate of the joint distribution of the feature within each class. Further, that can, in turn, provide a classification rule.
-
-Generally, statistical procedures have to characterize by having a precise fundamental probability model and that is used to provides a probability of being in each class instead of just a classification.
-
-Also, we can assume that the techniques will use by statisticians. Hence some human involvement has to assume with regard to variable selection.
-
-Also, transformation and overall structuring of the problem.
-
-Q.25. Explain Machine Learning Based Approach?
-
-Generally, it covers automatic computing procedures. Also, it was based on logical or binary operations. Further, we use to learn a task from a series of examples.
-
-Here, we have to focus on decision-tree approaches. Also, ss classification results come from a sequence of logical steps.
-
-Also, its principle would allow us to deal with more general types of data including cases. While, the number and type of attributes may vary.
-
-## Q.26. Explain ID3 Algorithm?
-
+### Q.26. Explain ID3 Algorithm?
 Generally, the id3 calculation starts with the original set as the root hub. Also, on every cycle, it emphasizes through every unused attribute of the set and figures. Moreover, the entropy of attribute. Furthermore, at that point chooses the attribute. Also, it has the smallest entropy value.
 
-## Q.27. Name methods of clustering?
-
+### Q.27. Name methods of clustering?
 They are classified into the following categories −
-
 1. Partitioning Method
 2. Hierarchical Method
 3. Density-based Method
@@ -211,16 +187,13 @@ They are classified into the following categories −
 5. Model-Based Method
 6. Constraint-based Method
 
-## Q.28. What do OLAP and OLTP stand for?
-
+### Q.28. What do OLAP and OLTP stand for?
 Basically, OLAP is an acronym for Online Analytical Processing and OLTP is an acronym for Online Transactional Processing.
 
-## Q.29. Define metadata?
-
+### Q.29. Define metadata?
 Basically, metadata is simply defined as data about data. In other words, we can say that metadata is the summarized data that leads us to the detailed data.
 
-## Q.30. List the types of OLAP server?
-
+### Q.30. List the types of OLAP server?
 Basically, there are four types of OLAP servers, namely Relational OLAP, Multidimensional OLAP, Hybrid OLAP, and Specialized SQL Servers. 
 
-<p align="center"> <a href="https://github.com/ahammadmejbah"> Mejbah Ahammad </a></p>
+## <p align="center"> <a href="https://github.com/ahammadmejbah"> Mejbah Ahammad </a></p>
