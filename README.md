@@ -196,4 +196,4 @@ Basically, metadata is simply defined as data about data. In other words, we can
 ### Q.30. List the types of OLAP server?
 Basically, there are four types of OLAP servers, namely Relational OLAP, Multidimensional OLAP, Hybrid OLAP, and Specialized SQL Servers. 
 
-## <p align="center"> <a href="https://github.com/ahammadmejbah"> Mejbah Ahammad </a></p>
+## <p align="center"> <a href="https://github.com/ahammadmejbah">Copyright:  Mejbah Ahammad </a></p>
