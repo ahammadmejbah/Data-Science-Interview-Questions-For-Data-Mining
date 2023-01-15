@@ -1,4 +1,4 @@
-# <p align="center">Data-Science-Interview-Questions</p>
+# <p align="center">Data Science Interview Questions - Data Mining</p>
 
 ### Q.1. What are foundations of data mining?
 
