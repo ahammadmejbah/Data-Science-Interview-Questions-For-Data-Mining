@@ -114,11 +114,17 @@ Generally, most people don’t differentiate data mining from knowledge discover
 
 ### Q.19. Explain steps involved in data mining knowledge process?
 Step 01. Data Cleaning − Basically, in this step, the noise and inconsistent data are removed.
+
 Step 02. Data Integration − Moreover, in this step, multiple data sources are combined.
+
 Step 03.Data Selection − Furthermore, in this step, data relevant to the analysis task are retrieved from the database.
+
 Step 04. Data Transformation − Basically, in this step, data is transformed into forms appropriate for mining. Also, by performing summary or aggregation operations.
+
 Step 05. Data Mining − In this, intelligent methods are applied in order to extract data patterns.
+
 Step 06. Pattern Evaluation − While, in this step, data patterns are evaluated.
+
 Step 07. Knowledge Presentation − Generally, in this step, knowledge is represented
 
 ### Q.20. What are issues in data mining?
