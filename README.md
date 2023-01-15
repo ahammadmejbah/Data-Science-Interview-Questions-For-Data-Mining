@@ -1,73 +1,67 @@
-# Data-Science-Interview-Questions
+# <p align="center">Data-Science-Interview-Questions</p>
 
-##Q.1. What are foundations of data mining?
+### Q.1. What are foundations of data mining?
 
 Generally, we use it for a long process of research and product development. Also, we can say this evolution was started when business data was first stored on computers. We can also navigate through their data in real time. Data Mining is also popular in the business community. As this is supported by three technologies that are now mature: Massive data collection, Powerful multiprocessor computers, and Data mining algorithms.
 
-##Q.2. What is the scope of data mining?
-
+### Q.2. What is the scope of data mining?
 Automated prediction of trends and behaviours- We use to automate the process of finding predictive information in large databases. Also, questions that required extensive hands-on analysis can now be answered from the data. Moreover, targeted marketing is a typical example of predictive marketing. As we also use data mining on past promotional mailings.
 Automated discovery of previously unknown patterns – As we use data mining tools to sweep through databases. Also, to identify previously hidden patterns in one step. Basically, there is a very good example of pattern discovery. As it is the analysis of retail sales data. Moreover, that is to identify unrelated products that are often purchased together.
-##Q.3 What are advantages of data mining?
 
+### Q.3 What are advantages of data mining?
 Basically, to find probable defaulters, we use data mining in banks and financial institutions. Also, this is done based on past transactions, user behaviour and data patterns.
-
 Generally, it helps advertisers to push the right advertisements to the internet. Also, it surfer on web pages based on machine learning algorithms. Moreover, this way data mining benefit both possible buyers as well as sellers of the various products.
-
 Basically, the retail malls and grocery stores peoples used it. Also, it is to arrange and keep most sellable items in the most attentive positions.
 
-##Q.4. What are the cons of data mining?
+### Q.4. What are the cons of data mining?
 
 Security: The time at which users are online for various uses, must be important. They do not have security systems in place to protect us. As some of the data mining analytics use software. That is difficult to operate. Thus they require a user to have knowledge based training. The techniques of data mining are not 100% accurate. Hence, it may cause serious consequences in certain conditions.
 
 
-##Q.5 Name Data mining techniques?
+### Q.5 Name Data mining techniques?
+1. Classification Analysis
+2. Association Rule Learning
+3. Anomaly or Outlier Detection
+4. Clustering Analysis
+5. Regression Analysis
+6. Prediction
+7. Sequential Patterns
+8. Decision trees
 
-a. Classification Analysis
-b. Association Rule Learning
-c. Anomaly or Outlier Detection
-d. Clustering Analysis
-e. Regression Analysis
-f. Prediction
-g. Sequential Patterns
-h. Decision trees
-
-
-##Q.6. Give a brief introduction to data mining process?
-
+### Q.6. Give a brief introduction to data mining process?
 Basically, data mining is the latest technology. Also, it is a process of discovering hidden valuable knowledge by analyzing a large amount of data. Moreover. we have to store that data in different databases. As data mining is a very important process. It becomes an advantage for various industries.
 
-##Q.7. Name types of data mining?
+### Q.7. Name types of data mining?
 
-a. Data cleaning
-b. Integration
-c. Selection
-d. Data transformation
-e. Data mining
-f. Pattern evaluation
-g. Knowledge representation
+1. Data cleaning
+2. Integration
+3. Selection
+4. Data transformation
+5. Data mining
+6. Pattern evaluation
+7. Knowledge representation
 
 ## Q.8. Name the steps used in data mining?
 
-a. Business understanding
-b. Data understanding
-c. Data preparation
-d. Modeling
-e. Evaluation
-f. Deployment
+1. Business understanding
+2. Data understanding
+3. Data preparation
+4. Modeling
+5. Evaluation
+6. Deployment
 
 ## Q.9. Name areas of applications of data mining?
 
-a. Data Mining Applications for Finance
-b. Healthcare
-c. Intelligence
-d. Telecommunication
-e. Energy
-f. Retail
-g. E-commerce
-h. Supermarkets
-i. Crime Agencies
-j. Businesses Benefit from data mining
+1. Data Mining Applications for Finance
+2. Healthcare
+3. Intelligence
+4. Telecommunication
+5. Energy
+6. Retail
+7. E-commerce
+8. Supermarkets
+9. Crime Agencies
+10. Businesses Benefit from data mining
 
 ## Q.10. What is required technological drivers in data mining?
 
@@ -228,3 +222,5 @@ Basically, metadata is simply defined as data about data. In other words, we can
 ## Q.30. List the types of OLAP server?
 
 Basically, there are four types of OLAP servers, namely Relational OLAP, Multidimensional OLAP, Hybrid OLAP, and Specialized SQL Servers. 
+
+<p align="center"> <a href="https://github.com/ahammadmejbah"> Mejbah Ahammad </a></p>
