@@ -6,7 +6,7 @@ Generally, we use it for a long process of research and product development. Als
 
 ### Q.2. What is the scope of data mining?
 Automated prediction of trends and behaviours- We use to automate the process of finding predictive information in large databases. Also, questions that required extensive hands-on analysis can now be answered from the data. Moreover, targeted marketing is a typical example of predictive marketing. As we also use data mining on past promotional mailings.
-Automated discovery of previously unknown patterns – As we use data mining tools to sweep through databases. Also, to identify previously hidden patterns in one step. Basically, there is a very good example of pattern discovery. As it is the analysis of retail sales data. Moreover, that is to identify unrelated products that are often purchased together.
+Automated discovery of previously unknown patterns – As we use data mining tools to sweeps through databases. Also, to identify previously hidden patterns in one step. Basically, there is a very good example of pattern discovery. As it is the analysis of retail sales data. Moreover, that is to identify unrelated products that are often purchased together.
 
 ### Q.3 What are advantages of data mining?
 Basically, to find probable defaulters, we use data mining in banks and financial institutions. Also, this is done based on past transactions, user behaviour and data patterns.
