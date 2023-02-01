@@ -2,7 +2,7 @@
 
 ### Q.1. What are foundations of data mining?
 
-Generally, we use it for a long process of research and product development. Also, we can say this evolution was started when business data was first stored on computers. We can also navigate through their data in real time. Data Mining is also popular in the business community. As this is supported by three technologies that are now mature: Massive data collection, Powerful multiprocessor computers, and Data mining algorithms.
+Generally, we use it for a long process of research and product developments. Also, we can say this evolution was started when business data was first stored on computers. We can also navigate through their data in real time. Data Mining is also popular in the business community. As this is supported by three technologies that are now mature: Massive data collection, Powerful multiprocessor computers, and Data mining algorithms.
 
 ### Q.2. What is the scope of data mining?
 Automated prediction of trends and behaviours- We use to automate the process of finding predictive information in large databases. Also, questions that required extensive hands-on analysis can now be answered from the data. Moreover, targeted marketing is a typical example of predictive marketing. As we also use data mining on past promotional mailings.
